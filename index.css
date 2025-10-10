@@ -1,4 +1,42 @@
-.body {
-    background-color: #000;
-    color: #fff;
+html {
+  scroll-behavior: smooth;
+}
+
+/* For NavBar */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h2, p {
+  margin: 10px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #2d2d2d;
+}
+
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: #eaeaea;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover:not(.active) {
+  background-color: #2d2d2d;
+}
+
+ul li a.active {
+  background-color: #f5a623;
 }
