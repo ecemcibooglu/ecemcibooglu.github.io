@@ -17,7 +17,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #2d2d2d;
+  background-color: #2d2d2d!important;
 }
 
 
@@ -34,9 +34,9 @@ ul li a {
 }
 
 ul li a:hover:not(.active) {
-  background-color: #2d2d2d;
+  background-color: #2d2d2d!important;
 }
 
 ul li a.active {
-  background-color: #f5a623;
+  background-color: #f5a623!important;
 }
