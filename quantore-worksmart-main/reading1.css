@@ -1,0 +1,28 @@
+.desktop-only{
+    display: inline-block;}
+    
+    .bg-color{
+        background-color: #E9B5A2;
+    }
+    
+    .green {
+        color: #05604B;
+    }
+    
+    .bg-green {
+        background-color: #05604B;
+    }
+    
+    .regular{
+        font-weight: 400;
+    }
+    
+    .bold{
+        font-weight: 700;
+    }
+    
+    @media screen and (max-width: 992px) {
+    .desktop-only{
+    display: none;
+    }
+}

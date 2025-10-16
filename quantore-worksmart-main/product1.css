@@ -1,0 +1,43 @@
+.bg-pritt {
+    background-color: #A39ECD;
+}
+
+.regular{
+    font-weight: 400;
+}
+
+.table {
+    color: white!important;
+}
+    
+td a {
+color: white !important;
+}
+
+td a:hover {
+color: black!important;
+}
+
+@media screen and (max-width: 992px) {
+.mb-mobile {
+    margin-bottom: 5%;
+}
+
+img{
+max-width: 100%;
+} 
+}
+
+.table td, .table th {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: none!important;
+}
+    
+.table-striped tbody tr:nth-of-type(even) {
+    background-color: rgba(0,0,0,.05);
+}
+    
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: transparent;
+}

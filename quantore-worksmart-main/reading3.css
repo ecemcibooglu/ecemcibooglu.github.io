@@ -1,0 +1,34 @@
+.tussendortje-bg {
+    background-color: #88516A;
+   }
+   
+   h1 {
+   font-size: 60px !important;
+   line-height: 70px;
+   }
+    
+   p {
+      font-size: 18px !important;
+      color: white;
+   }
+     
+   .vertical-border {
+   border-left: 10px solid #016FAD;
+   }
+   
+    @media screen and (max-width: 992px) { 
+    .img-fluid {
+    width: 50%;
+    text-align: center;
+    }
+    
+    .mb-mobile {
+    margin-bottom: 8%;
+    }
+    }
+    
+    @media screen and (max-width: 768px) { 
+    h1 {
+      font-size: 35px !important;
+    }
+   }

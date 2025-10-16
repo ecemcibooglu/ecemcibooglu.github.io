@@ -1,0 +1,23 @@
+p{
+    color: black;
+    }
+    
+    .bg-color{
+        background-color: #D4D800;
+    }
+    
+    .pink {
+        color: #ED258C;
+    }
+    
+    .bg-pink {
+        background-color: #ED258C;
+    }
+    
+    .regular{
+        font-weight: 400;
+    }
+    
+    .bold{
+        font-weight: 700;
+    }

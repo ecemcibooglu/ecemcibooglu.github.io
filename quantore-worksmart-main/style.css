@@ -1,0 +1,422 @@
+@import url("https://use.typekit.net/itc0epo.css");
+
+/*buttons*/
+.carousel-btn {
+  color: white !important;
+  padding: 12px 30px !important;
+  cursor: pointer !important;
+  font-size: 16px !important;
+  font-weight: 300 !important;
+  border-radius: 50px !important;
+  font-family: "Adelle Sans" sans-serif;
+  font-style: normal !important;
+  margin-top: 1rem !important;
+  margin-bottom: 2rem !important;
+  width: auto !important;
+}
+
+.facilitair-btn {
+  background-color: #b4309a;
+  border: 2px solid #b4309a;
+}
+
+.facilitair-btn:hover {
+  background-color: transparent;
+  border: 2px solid #b4309a;
+  color: #b4309a !important;
+  text-decoration: none !important;
+}
+
+.kantoor-btn {
+  background-color: #aed136;
+  border: 2px solid #aed136;
+}
+
+.kantoor-btn:hover {
+  background-color: transparent;
+  border: 2px solid #aed136;
+  color: #aed136 !important;
+  text-decoration: none !important;
+}
+
+.schrijven-btn {
+  background-color: #f79e1d;
+  border: 2px solid #f79e1d;
+}
+
+.schrijven-btn:hover {
+  background-color: transparent;
+  border: 2px solid #f79e1d;
+  color: #f79e1d !important;
+  text-decoration: none !important;
+}
+
+.papier-btn {
+  background-color: #40bcab;
+  border: 2px solid #40bcab;
+}
+
+.papier-btn:hover {
+  background-color: transparent;
+  border: 2px solid #40bcab;
+  color: #40bcab !important;
+  text-decoration: none !important;
+}
+
+.ict-btn {
+  background-color: #58ccff;
+  border: 2px solid #58ccff;
+}
+
+.ict-btn:hover {
+  background-color: transparent;
+  border: 2px solid #58ccff;
+  color: #58ccff !important;
+  text-decoration: none !important;
+}
+/*buttons end*/
+
+.bg-pritt {
+  background-color: #a39ecc;
+}
+
+.truncate-multiline {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 4;
+}
+
+.card-body {
+  height: auto;
+  word-wrap: normal;
+}
+
+.container {
+  letter-spacing: 1px;
+}
+
+@media (max-width: 767px) {
+  .carousel-inner .carousel-item > div {
+    display: none;
+  }
+
+  .carousel-inner .carousel-item > div:first-child {
+    display: block;
+  }
+}
+
+.carousel-inner .carousel-item.active,
+.carousel-inner .carousel-item-next,
+.carousel-inner .carousel-item-prev {
+  display: flex;
+}
+
+/* display 3 */
+@media (min-width: 768px) {
+  .carousel-inner .carousel-item-right.active,
+  .carousel-inner .carousel-item-next {
+    transform: translateX(33.333%);
+  }
+
+  .carousel-inner .carousel-item-left.active,
+  .carousel-inner .carousel-item-prev {
+    transform: translateX(-33.333%);
+  }
+}
+
+.carousel-inner .carousel-item-right,
+.carousel-inner .carousel-item-left {
+  transform: translateX(0);
+}
+
+.carousel-control-prev {
+  left: -10%;
+}
+
+.carousel-control-next {
+  right: -10%;
+}
+
+.card {
+  border: none;
+  padding: px;
+}
+
+.border {
+  border: 3px solid #000 !important;
+}
+
+.carsl {
+  width: 25px;
+  height: 25px;
+  color: #000;
+}
+
+.carousel-control-prev-icon {
+  padding-right: 2px;
+}
+
+.carousel-control-next-icon {
+  padding-right: 2px;
+}
+
+.item {
+  min-width: 280px;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  .header {
+    padding-right: 0;
+    padding-left: 0;
+  }
+}
+
+.col-sm {
+  text-align: left;
+}
+
+.p1 {
+  font-size: 22px;
+}
+
+.grey {
+  color: #777777;
+  font-weight: 300;
+  letter-spacing: 0.5pt;
+  margin-top: 1.5rem;
+  font-size: 18px;
+}
+
+.grey:a {
+  color: #d32d21;
+}
+ul {
+  padding-left: 0px;
+}
+
+.grijs {
+  font-size: 22px;
+  color: #777777;
+}
+
+.heading-faci {
+  text-align: left;
+  margin-top: 1.5rem;
+  font-weight: 400;
+  font-size: 26px;
+}
+
+.col {
+  margin-top: 2rem;
+}
+
+.faci-bro {
+  font-size: 18px;
+  color: #575757;
+  font-weight: 300;
+}
+
+.KKB {
+  width: inherit;
+  margin-top: 20px;
+}
+
+.lblue-bg {
+  background-color: #d5ebe9;
+}
+
+.bg-red {
+  background-color: #e20e0e;
+}
+
+.text-green {
+  color: #259943;
+}
+
+.desktop-only {
+  display: inline-block;
+}
+
+.banner {
+  background-image: url("https://assets.channext.eu/quantore/2023/worksmart23-5/index/banner.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 38% 100%;
+}
+
+.bottom {
+  bottom: 0;
+  left: 8%;
+  position: absolute;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 45px;
+  color: #000;
+}
+
+.text-32 {
+  font-size: 32px !important;
+  line-height: 1.4;
+  font-weight: 700;
+}
+
+.btn-red {
+  background-color: #dc000a;
+  border: 2px solid #dc000a;
+  color: white !important;
+  padding: 15px 50px;
+  border-radius: 50px;
+}
+
+.btn-red:visited {
+  background-color: #dc000a;
+  border: 2px solid #dc000a;
+  color: white !important;
+  padding: 15px 50px;
+  border-radius: 50px;
+}
+
+.btn-red:hover {
+  background-color: transparent;
+  border: 2px solid #dc000a;
+  color: #dc000a !important;
+  padding: 15px 50px;
+  text-decoration: none !important;
+}
+
+.btn-uit {
+  background-color: #e99e39;
+  border: 2px solid #e99e39;
+  color: white !important;
+  padding: 15px 50px;
+  border-radius: 50px;
+}
+
+.btn-uit:visited {
+  background-color: #e99e39;
+  border: 2px solid #e99e39;
+  color: white !important;
+  padding: 15px 50px;
+  border-radius: 50px;
+}
+
+.btn-uit:hover {
+  background-color: transparent;
+  border: 2px solid #e99e39;
+  color: #e99e39 !important;
+  padding: 15px 50px;
+  text-decoration: none !important;
+}
+
+p {
+  font-size: 18px !important;
+}
+
+a {
+  color: #a63d96 !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #a63d96 !important;
+  text-decoration: underline !important;
+}
+
+a:visited {
+  color: #a63d96 !important;
+  text-decoration: none !important;
+}
+
+@media screen and (max-width: 1024px) {
+  .text-32 {
+    font-size: 29px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .desktop-only {
+    display: none;
+  }
+
+  .card h2 {
+    font-size: 25px !important;
+  }
+
+  .card p {
+    font-size: 17px !important;
+  }
+  .banner-container {
+    max-width: 100% !important;
+  }
+
+  .carousel-btn {
+    font-size: 12px !important;
+}
+}
+
+.index-img {
+height: 300px!important;
+width: 300px !important;
+}
+
+
+
+.desktop-only {
+  display: block;
+}
+
+.mobile-only {
+  display: none;
+}
+
+@media screen and (max-width: 767px) {
+  .carousel-control-prev {
+    left: -3%;
+  }
+  
+  .carousel-control-next {
+    right: -3%;
+  }
+
+  .desktop-only {
+    display: none;
+  }
+
+  .mobile-only {
+    display: block;
+  }
+
+  .last-bg {
+    background-position: 50% 100%;
+  }
+
+  h2 {
+    font-size: 32px !important;
+  }
+
+  p {
+    font-size: 17px !important;
+  }
+
+  .text-32 {
+    font-size: 25px !important;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  p {
+    font-size: 15px !important;
+  }
+
+  .text-32 {
+    font-size: 20px !important;
+  }
+
+  h2 {
+    font-size: 30px !important;
+  }
+}
