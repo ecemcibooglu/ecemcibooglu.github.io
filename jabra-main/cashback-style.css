@@ -1,5 +1,5 @@
 .header {
-    background-image: url("../cashback-img/background.png");
+    background-image: url("../jabra-main/cashback-img/background.png");
     background-position: top;
     background-size: 100% 82%;
     background-repeat: no-repeat;
@@ -44,7 +44,7 @@
     }
     
     .banner {
-        background-image: url("../cashback-img/cashback-header.png");
+        background-image: url("../jabra-main/cashback-img/cashback-header.png");
         background-repeat: no-repeat;
         background-position: 50% 20%;
         background-size: cover;

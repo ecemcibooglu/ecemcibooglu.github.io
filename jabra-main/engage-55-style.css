@@ -61,7 +61,7 @@ h2 {
 
 .last {
     background-position: bottom;
-    background-image: url(../engage-55-img/Rectangle-green.png);
+    background-image: url(../jabra-main/engage-55-img/Rectangle-green.png);
     background-repeat: no-repeat;
     background-size: 100% 103%;
 }
@@ -69,14 +69,14 @@ h2 {
 .colored {
     background-position: center;
     background-size: 100% 70%;
-    background-image: url(../engage-55-img/Rectangle.png);
+    background-image: url(../jabra-main/engage-55-img/Rectangle.png);
     background-repeat: no-repeat;
 }
 
 .colored-2 {
     background-position: bottom;
     background-size: 100% 75%;
-    background-image: url(../engage-55-img/Rectangle-blue.png);
+    background-image: url(../jabra-main/engage-55-img/Rectangle-blue.png);
     background-repeat: no-repeat;
 }
 

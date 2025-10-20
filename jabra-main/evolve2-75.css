@@ -68,7 +68,7 @@ h1 {
 
 .colored-2 {
     background-position: bottom;
-    background-image: url("../evolve2-75-img/back-img.png");
+    background-image: url("../jabra-main/evolve2-75-img/back-img.png");
     background-repeat: no-repeat;
     background-size: 100% 103%;
 }
@@ -76,13 +76,13 @@ h1 {
 .colored {
     background-position: center;
     background-size: 100% 71%;
-    background-image: url("../evolve2-75-img/back-img-1.png");
+    background-image: url("../jabra-main/evolve2-75-img/back-img-1.png");
     background-repeat: no-repeat;
 }
 
 .last {
     background-position: bottom;
-    background-image: url("../evolve2-75-img/nineth.png");
+    background-image: url("../jabra-main/evolve2-75-img/nineth.png");
     background-repeat: no-repeat;
     background-size: 100% 103%;
 }

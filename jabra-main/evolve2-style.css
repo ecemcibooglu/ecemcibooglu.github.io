@@ -3,7 +3,7 @@
 }
 
 .colored {
-    background-image: url("../evolve2-img/bg.png");
+    background-image: url("../jabra-main/evolve2-img/bg.png");
      background-repeat: no-repeat;
     background-position: bottom;
     background-size: 100% 75%;
@@ -11,7 +11,7 @@
 
 
 .bg2 {
-    background-image: url("../evolve2-img/bg2.png");
+    background-image: url("../jabra-main/evolve2-img/bg2.png");
      background-repeat: no-repeat;
     background-position: top;
     background-size:  100% 70%;

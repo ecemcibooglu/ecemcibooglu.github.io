@@ -1,16 +1,16 @@
 .header {
-    background-image: url("../audio-img/first.png");
+    background-image: url("../jabra-main/audio-img/first.png");
     background-repeat: no-repeat;
     background-position: 100% 20%;
     background-size: cover;
 }
 
 .colored {
-    background-image: url("../audio-img/Rectangle.png");
+    background-image: url("../jabra-main/audio-img/Rectangle.png");
 }
 
 .colored-2 {
-    background-image: url("../audio-img/Rectangle-1.png");
+    background-image: url("../jabra-main/audio-img/Rectangle-1.png");
 }
 
 .firstly {
