@@ -1,5 +1,5 @@
 .zakagendas-bg {
-    background-image: url("../agendaspecial-img/zakagendas.png");
+    background-image: url("../quantore-agendaspecial-main/agendaspecial-img/zakagendas.png");
     background-repeat: no-repeat;
     background-position: 100% 33%;
     background-size: cover;
@@ -42,7 +42,7 @@
     }
     
     .grey-bg {
-    background-image: url("../bureau-img/grey-bg.jpg");
+    background-image: url("../quantore-agendaspecial-main/bureau-img/grey-bg.jpg");
     }
     
     .blauw-bg {

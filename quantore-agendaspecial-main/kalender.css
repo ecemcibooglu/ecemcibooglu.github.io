@@ -1,5 +1,5 @@
 .grey-bg {
-    background-image: url("../bureau-img/grey-bg.jpg");
+    background-image: url("../quantore-agendaspecial-main/bureau-img/grey-bg.jpg");
     }
     
     .blauw-bg {
@@ -7,7 +7,7 @@
     }
     
     .kalender-bg {
-      background-image: url("../kalender-img/kalender.png");
+      background-image: url("../quantore-agendaspecial-main/kalender-img/kalender.png");
         background-position:center;
         background-size: cover;
         height: 340px;

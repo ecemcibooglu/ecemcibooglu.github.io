@@ -36,42 +36,42 @@
     
     
     .kalender-bg {
-    background-image: url("../agendaspecial-img/kalendar.png");
+    background-image: url("../quantore-agendaspecial-main/agendaspecial-img/kalendar.png");
     background-repeat: no-repeat;
     background-position: 100% 82%;
     background-size: cover;
     }
     
     .agendass-bg {
-    background-image: url("../agendaspecial-img/agendass.png");
+    background-image: url("../quantore-agendaspecial-main/agendaspecial-img/agendass.png");
     background-repeat: no-repeat;
     background-position: 100% 82%;
     background-size: cover;
     }
     
     .reactioneel-bg {
-    background-image: url("../agendaspecial-img/header.png");
+    background-image: url("../quantore-agendaspecial-main/agendaspecial-img/header.png");
     background-repeat: no-repeat;
     background-position: 100% 82%;
     background-size: cover;
     }
     
     .bureau-banner {
-    background-image: url("../agendaspecial-img/bureau-header.png");
+    background-image: url("../quantore-agendaspecial-main/agendaspecial-img/bureau-header.png");
     background-repeat: no-repeat;
     background-position: 100% 40%;
     background-size: cover;
     }
     
     .omslag-banner {
-    background-image: url("../agendaspecial-img/omslagen.png");
+    background-image: url("../quantore-agendaspecial-main/agendaspecial-img/omslagen.png");
     background-repeat: no-repeat;
     background-position: 100% 80%;
     background-size: cover;
     }
     
     .zakagendas-bg {
-    background-image: url("../agendaspecial-img/zakagendas.png");
+    background-image: url("../quantore-agendaspecial-main/agendaspecial-img/zakagendas.png");
     background-repeat: no-repeat;
     background-position: 100% 40%;
     background-size: cover;

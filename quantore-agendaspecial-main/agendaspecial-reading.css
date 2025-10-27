@@ -11,14 +11,14 @@
     }
     
     .reactioneel-bg {
-    background-image: url("../reading-agenda-img/header.jpg");
+    background-image: url("../quantore-agendaspecial-main/reading-agenda-img/header.jpg");
     background-repeat: no-repeat;
     background-position: 100% 70%;
     background-size: cover;
     }
     
     .grey-bg {
-    background-image: url("../bureau-img/grey-bg.jpg");
+    background-image: url("../quantore-agendaspecial-main/bureau-img/grey-bg.jpg");
     }
     
     @media screen and ( max-width: 992px) {

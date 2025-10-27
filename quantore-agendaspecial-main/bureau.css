@@ -1,5 +1,5 @@
 .grey-bg {
-    background-image: url("../bureau-img/grey-bg.jpg");
+    background-image: url("../quantore-agendaspecial-main/bureau-img/grey-bg.jpg");
     }
     
     p, li {
@@ -35,7 +35,7 @@
     }
      
      .bureau-banner {
-    background-image: url("../bureau-img/bureau-header.png");
+    background-image: url("../quantore-agendaspecial-main/bureau-img/bureau-header.png");
     background-repeat: no-repeat;
     background-position: 100% 40%;
     background-size: cover;
