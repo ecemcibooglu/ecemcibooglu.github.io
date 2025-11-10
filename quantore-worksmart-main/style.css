@@ -22,7 +22,7 @@
 
 .facilitair-btn:hover {
   background-color: transparent;
-  border: 2px solid #b4309a;
+  border: 2px solid #b4309a!important;
   color: #b4309a !important;
   text-decoration: none !important;
 }
@@ -34,7 +34,7 @@
 
 .kantoor-btn:hover {
   background-color: transparent;
-  border: 2px solid #aed136;
+  border: 2px solid #aed136!important;
   color: #aed136 !important;
   text-decoration: none !important;
 }
@@ -46,7 +46,7 @@
 
 .schrijven-btn:hover {
   background-color: transparent;
-  border: 2px solid #f79e1d;
+  border: 2px solid #f79e1d!important; 
   color: #f79e1d !important;
   text-decoration: none !important;
 }
@@ -58,7 +58,7 @@
 
 .papier-btn:hover {
   background-color: transparent;
-  border: 2px solid #40bcab;
+  border: 2px solid #40bcab!important;
   color: #40bcab !important;
   text-decoration: none !important;
 }
@@ -70,7 +70,7 @@
 
 .ict-btn:hover {
   background-color: transparent;
-  border: 2px solid #58ccff;
+  border: 2px solid #58ccff!important;
   color: #58ccff !important;
   text-decoration: none !important;
 }
